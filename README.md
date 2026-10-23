@@ -1,11 +1,6 @@
 <div align="center">
 
-<!-- Hero Header Card with White Pixel Art Transition Animation -->
-<a href="https://rahulchandra.vercel.app">
-  <img src="./assets/rahul_white_pixel_transition.gif" alt="Rahul Chandra White Pixel Transition" width="300" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(142, 224, 198, 0.15);"/>
-</a>
-
-# ⚡ Rahul Chandra Padamuttam
+# Rahul Chandra Padamuttam
 ### **Systems Engineer · Autonomous Robotics & Locomotion · AI & Cloud Architect**
 *B.Tech in Computer Engineering @ NIAMT Ranchi · Summer Research Intern @ MANIT Bhopal*
 
@@ -18,7 +13,7 @@
 <!-- Quick Action Badges -->
 <p align="center">
   <a href="https://rahulchandra.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-rahulchandra.vercel.app-8ee0c6?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-rahulchandra.vercel.app-8ee0c6?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/rahul-chandra-padamuttam-6b5888330">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
@@ -38,12 +33,12 @@
 
 ---
 
-### 💻 System Telemetry & Environment Diagnostics
+### System Telemetry & Environment Diagnostics
 
 ```yaml
 # system_diagnostics.yml
 entity: Rahul Chandra Padamuttam
-status: 🟢 Active · Engineering High-Impact Resilient Systems
+status: Active · Engineering High-Impact Resilient Systems
 environment:
   os: Arch Linux x86_64 / DevSecOps Pipeline
   runtime: [C++20, Python 3.12, TypeScript 5.5, Rust, CUDA]
@@ -65,7 +60,7 @@ core_specializations:
 
 ---
 
-## ⚡ Technical Arsenal & Core Stack
+## Technical Arsenal & Core Stack
 
 <div align="center">
 
@@ -111,7 +106,7 @@ core_specializations:
 
 ---
 
-## 📊 Live GitHub Metrics & Activity
+## Live GitHub Metrics & Activity
 
 <div align="center">
 
@@ -141,7 +136,7 @@ core_specializations:
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 <div align="center">
 
