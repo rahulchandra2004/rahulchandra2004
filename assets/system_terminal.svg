@@ -1,0 +1,93 @@
+<svg width="850" height="360" viewBox="0 0 850 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="card-shadow" x="-10" y="-10" width="870" height="380" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="16" stdDeviation="20" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+    <linearGradient id="window-border" x1="0" y1="0" x2="850" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#30363d"/>
+      <stop offset="50%" stop-color="#8ee0c6" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#30363d"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .terminal-font {
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 13px;
+    }
+    .bold { font-weight: 700; }
+    .medium { font-weight: 600; }
+    .dim { fill: #8b949e; }
+    .mint { fill: #8ee0c6; }
+    .violet { fill: #8c82f2; }
+    .white { fill: #f0f6fc; }
+    .blue { fill: #79c0ff; }
+    .green { fill: #3fb950; }
+    .subtext { fill: #c9d1d9; }
+  </style>
+
+  <!-- Main Terminal Window Background -->
+  <rect x="1" y="1" width="848" height="358" rx="14" fill="#0d1117" stroke="url(#window-border)" stroke-width="1.5"/>
+
+  <!-- Top Window Header Bar -->
+  <path d="M 1 15 C 1 7.268 7.268 1 15 1 L 835 1 C 842.732 1 849 7.268 849 15 L 849 42 L 1 42 Z" fill="#161b22"/>
+  <line x1="1" y1="42" x2="849" y2="42" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Window Controls (Traffic Lights) -->
+  <circle cx="24" cy="21.5" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="21.5" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="21.5" r="6" fill="#27c93f"/>
+
+  <!-- Window Title -->
+  <text x="425" y="26" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="0.5">rahul@archlinux: ~ (sys.telemetry)</text>
+
+  <!-- Terminal Content Lines -->
+  <!-- Line 1: Command Prompt -->
+  <text x="24" y="74" class="terminal-font">
+    <tspan class="mint bold">rahul@archlinux</tspan><tspan class="dim">:</tspan><tspan class="violet bold">~</tspan><tspan class="dim">$</tspan> <tspan class="white">systemctl status engineering.profile --no-pager</tspan>
+  </text>
+
+  <!-- Line 2: Service Header -->
+  <text x="24" y="104" class="terminal-font">
+    <tspan class="green bold">&#x25cf;</tspan> <tspan class="white bold">engineering.profile - Rahul Chandra Padamuttam (Systems &amp; AI)</tspan>
+  </text>
+
+  <!-- Line 3: Loaded Status -->
+  <text x="42" y="128" class="terminal-font dim">
+    Loaded: <tspan class="subtext">NIAMT Ranchi (B.Tech in Computer Engineering)</tspan>
+  </text>
+
+  <!-- Line 4: Active Status -->
+  <text x="42" y="150" class="terminal-font dim">
+    Active: <tspan class="green bold">active (running)</tspan> <tspan class="dim">&#x2014; Research Intern @ MANIT Bhopal (Locomotion)</tspan>
+  </text>
+
+  <!-- Pillar Container Line -->
+  <line x1="28" y1="174" x2="28" y2="292" stroke="#8ee0c6" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Pillar 1 -->
+  <text x="44" y="192" class="terminal-font">
+    <tspan class="blue bold">[Systems &amp; DevSecOps]</tspan>  <tspan class="subtext">Zero-Disk AST Parsers · 60-FPS Radial Desktop Firewalls · PII Sanitizer</tspan>
+  </text>
+
+  <!-- Pillar 2 -->
+  <text x="44" y="222" class="terminal-font">
+    <tspan class="blue bold">[Robotics &amp; Hardware]</tspan>  <tspan class="subtext">12-DOF Bipedal Gait Synthesis · CPG &amp; FSM Locomotion · Embedded C++</tspan>
+  </text>
+
+  <!-- Pillar 3 -->
+  <text x="44" y="252" class="terminal-font">
+    <tspan class="blue bold">[Observability &amp; SRE]</tspan>  <tspan class="subtext">Closed-Loop AI Observability · OpenTelemetry · SigNoz Global Winner</tspan>
+  </text>
+
+  <!-- Pillar 4 -->
+  <text x="44" y="282" class="terminal-font">
+    <tspan class="blue bold">[Cloud &amp; Security]</tspan>     <tspan class="subtext">Oracle Cloud (OCI) Certified Associate · Google Gemini Certified</tspan>
+  </text>
+
+  <!-- Ready Command Prompt -->
+  <text x="24" y="326" class="terminal-font">
+    <tspan class="mint bold">rahul@archlinux</tspan><tspan class="dim">:</tspan><tspan class="violet bold">~</tspan><tspan class="dim">$</tspan> <tspan class="subtext">ready --deploy</tspan>
+  </text>
+  <rect x="225" y="313" width="8" height="16" fill="#8ee0c6"/>
+</svg>

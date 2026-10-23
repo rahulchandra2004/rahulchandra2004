@@ -33,30 +33,9 @@
 
 ---
 
-### System Telemetry & Environment Diagnostics
-
-```yaml
-# system_diagnostics.yml
-entity: Rahul Chandra Padamuttam
-status: Active · Engineering High-Impact Resilient Systems
-environment:
-  os: Arch Linux x86_64 / DevSecOps Pipeline
-  runtime: [C++20, Python 3.12, TypeScript 5.5, Rust, CUDA]
-  cloud_platforms: [Oracle Cloud (OCI Certified), Google Cloud (GCP), Docker]
-  observability: [OpenTelemetry, SigNoz, Low-Latency Telemetry Streaming]
-core_specializations:
-  systems_devsecops:
-    - Zero-Disk Ephemeral AST Parsing & Code Property Graphs
-    - 60-FPS Frameless Polymorphic Radial Desktop Firewalls
-    - Real-Time PII Masking & Edge-AI Token Sanitization
-  robotics_kinematics:
-    - 12-DOF Bipedal Humanoid Dynamic Gait Synthesis
-    - Bio-inspired Central Pattern Generators (CPG) & Finite State Machines (FSM)
-    - Embedded Firmware, Sensor Fusion & Telemetry Loops
-  ai_observability:
-    - Multi-Agent LLM Workflow Monitoring & Trace Graph Instrumentation
-    - Automated Anomaly Detection & Closed-Loop Autonomous Self-Healing
-```
+<div align="center">
+  <img src="./assets/system_terminal.svg" alt="System Telemetry &amp; Environment Diagnostics" width="100%" style="max-width: 850px;"/>
+</div>
 
 ---
 
