@@ -12,7 +12,7 @@
 
 <!-- Quick Action Badges -->
 <p align="center">
-  <a href="https://rahulchandra.vercel.app">
+  <a href="https://rahulchandra.me">
     <img src="https://img.shields.io/badge/Portfolio-rahulchandra.vercel.app-8ee0c6?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/rahul-chandra-padamuttam-6b5888330">
